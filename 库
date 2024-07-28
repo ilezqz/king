@@ -1,1 +1,9 @@
-ilezqz
+[rewrite_local]
+[rewrite_local]
+^^https:\\/\\/mi\\.gdt\\.qq\\.com\\/gdt_mview\\.fcg url reject
+[mitm] 
+hostname = mi\.gdt\.qq\.com
+mview\.fcg url reject
+[mitm] 
+hostname = mi.gdt.qq.com
+mview.fcg
